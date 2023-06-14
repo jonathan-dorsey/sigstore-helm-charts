@@ -21,7 +21,7 @@ entries:
           image: ghcr.io/sigstore/scaffolding/createdb@sha256:9aa98492115c465b0cecfd6dbb04411a40c0d2d7e5d7c510f5646bd1d825e3c7
       artifacthub.io/license: Apache-2.0
     apiVersion: v2
-    created: "2023-06-14T13:47:51.481065-05:00"
+    created: "2023-06-14T14:17:24.506741-05:00"
     description: 'Trillian is a log that stores an accurate, immutable and verifiable
       history of activity. '
     digest: e268df6e8d1590a4c7042bc468eb672153172aa3395695aebf8334b4b47e8124
@@ -38,6 +38,6 @@ entries:
     - https://github.com/sigstore/helm-charts/tree/main/charts/trillian
     type: application
     urls:
-    - https://github.com/jonathan-dorsey/sigstore-helm-charts/trillian-0.3.0.tgz
+    - https://jonathan-dorsey.github.io/sigstore-helm-charts/trillian-0.3.0.tgz
     version: 0.3.0
-generated: "2023-06-14T13:47:51.47982-05:00"
+generated: "2023-06-14T14:17:24.504339-05:00"
